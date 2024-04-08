@@ -59,6 +59,7 @@
         'https://github.com/OCA/mis-builder.git -b 16.0',
         'https://github.com/OCA/sale-workflow.git -b 16.0',
         'https://github.com/OCA/web.git -b 16.0',
+        'https://github.com/a2systems/odoo-argentina -b 16.0',
         ##
         'https://github.com/OCA/contract.git -b 16.0',
         'https://github.com/odoomates/odooapps.git -b 16.0',
