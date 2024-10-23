@@ -79,7 +79,6 @@
         'https://github.com/Yenthe666/auto_backup.git yenthe666/auto_backup -b 16.0',
         'https://github.com/ARN-JAparicio/webarengy-addons.git -b 16.0',
         'https://github.com/OCA/e-commerce -b 16.0',
-        'https://github.com/sistemassdeh/POS---Cliente-Tipo-de-Responsabilidad-AFIP -b 16.0',
         'https://github.com/OCA/sale-promotion -b 16.0',
         'https://github.com/sistemasdehudson/sdh-modules -b 16.0',
     ],
