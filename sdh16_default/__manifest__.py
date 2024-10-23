@@ -81,6 +81,7 @@
         'https://github.com/OCA/e-commerce -b 16.0',
         'https://github.com/sistemassdeh/POS---Cliente-Tipo-de-Responsabilidad-AFIP -b 16.0',
         'https://github.com/OCA/sale-promotion -b 16.0',
+        'https://github.com/sistemasdehudson/sdh-modules -b 16.0',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
